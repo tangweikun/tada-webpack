@@ -1,0 +1,13 @@
+{
+  "name": "demo-06",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  }
+}
