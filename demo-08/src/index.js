@@ -1,7 +1,10 @@
+import _ from 'lodash';
+import print from './print';
+
 function component() {
   var element = document.createElement('pre');
-
-  element.innerHTML = 'Caching ...';
+  print('Module Identifiers');
+  element.innerHTML = 'Caching';
 
   return element;
 }
